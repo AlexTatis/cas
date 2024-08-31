@@ -7,5 +7,11 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    require('daisyui')
+  ],
+  screens: {
+    'xs': '380px',
+    'xxl': '1400px'
+  }
 }
