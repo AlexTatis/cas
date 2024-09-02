@@ -6,13 +6,6 @@ import { Stories } from 'vue-insta-stories'
 import { ref } from 'vue';
 import { useWindowSize } from '@vueuse/core';
 
-type Experience = {
-    title: string,
-    content: string,
-    areas: ("Creatividad" | "Actividad" | "Servicio")[],
-    images: string[]
-}
-
 const route = useRoute()
 
 const experience = experiences[+route.params.id - 1]

@@ -6,7 +6,7 @@ const props = defineProps<{
     md: string
 }>()
 
-const markdownFile = (await import(`../assets/md/${props.md}?raw`)).default
+const markdownFile = (await import(`../assets/md/${props.md}.md?raw`)).default
 const markdown = marked.parse(markdownFile)
 
 </script>
