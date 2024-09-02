@@ -12,5 +12,47 @@
             "/test.jpg",
             "/test.jpg"
         ]
+    },
+    {
+        "title": "Sensogenoma",
+        "content": "sensogenoma.md",
+        "areas": [
+            "Creatividad",
+            "Actividad",
+            "Servicio"
+        ],
+        "images": [
+            "/test.jpg",
+            "/test.jpg",
+            "/test.jpg"
+        ]
+    },
+    {
+        "title": "Sensogenoma",
+        "content": "sensogenoma.md",
+        "areas": [
+            "Creatividad",
+            "Actividad",
+            "Servicio"
+        ],
+        "images": [
+            "/test.jpg",
+            "/test.jpg",
+            "/test.jpg"
+        ]
+    },
+    {
+        "title": "Sensogenoma",
+        "content": "sensogenoma.md",
+        "areas": [
+            "Creatividad",
+            "Actividad",
+            "Servicio"
+        ],
+        "images": [
+            "/test.jpg",
+            "/test.jpg",
+            "/test.jpg"
+        ]
     }
 ]
