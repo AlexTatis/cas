@@ -43,7 +43,7 @@ import projects from '../projects.json'
                     <RouterLink :to="`/experiences/${i + 1}`"
                       class="flex flex-col bg-slate-100 p-2 rounded-md h-80 sm:h-52 w-10/12 sm:w-32 items-center carousel-item drop-shadow-lg hover:scale-105 md:hover:scale-110 transition-transform justify-around"
                       v-for="(experience, i) in experiences" :id="`experience${i + 1}`">
-                      <img class="object-cover rounded-md basis-1/2 aspect-video max-h-64 sm:max-h-48 brightness-75 sepia"
+                      <img class="object-cover rounded-md basis-1/2 aspect-square max-h-64 sm:max-h-48 brightness-75 sepia"
                         :src="experience.images[0]" alt="">
                       <p class="text-black relative text-xl sm:text-base text-center">{{ experience.title }}</p>
                     </RouterLink>
@@ -65,7 +65,7 @@ import projects from '../projects.json'
                     <RouterLink :to="`/projects/${i + 1}`"
                       class="flex flex-col bg-slate-100 p-2 rounded-md h-80 sm:h-52 w-10/12 sm:w-32 items-center carousel-item drop-shadow-lg hover:scale-105 md:hover:scale-110 transition-transform justify-around"
                       v-for="(project, i) in projects" :id="`project${i + 1}`">
-                      <img class="object-cover rounded-md basis-1/2 aspect-video max-h-64 sm:max-h-48 brightness-75 sepia"
+                      <img class="object-cover rounded-md basis-1/2 aspect-square max-h-64 sm:max-h-48 brightness-75 sepia"
                         :src="project.images[0]" alt="">
                       <p class="text-black relative text-xl sm:text-base text-center">{{ project.title }}</p>
                     </RouterLink>
