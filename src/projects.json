@@ -7,9 +7,9 @@
             "Creatividad"
         ],
         "images": [
-            "/audicrea1.jpg",
-            "/audicrea2.jpg",
-            "/audicrea3.jpg"
+            "/cas/audicrea1.jpg",
+            "/cas/audicrea2.jpg",
+            "/cas/audicrea3.jpg"
         ]
     },
     {
@@ -20,11 +20,11 @@
             "Actividad"
         ],
         "images": [
-            "/cumpleaños1.jpg",
-            "/cumpleaños2.jpg",
-            "/cumpleaños3.jpg",
-            "/cumpleaños4.jpg",
-            "/cumpleaños5.jpg"
+            "/cas/cumpleaños1.jpg",
+            "/cas/cumpleaños2.jpg",
+            "/cas/cumpleaños3.jpg",
+            "/cas/cumpleaños4.jpg",
+            "/cas/cumpleaños5.jpg"
         ]
     },
     {
@@ -35,8 +35,8 @@
             "Servicio"
         ],
         "images": [
-            "/iris1.png",
-            "/iris3.jpg"
+            "/cas/iris1.png",
+            "/cas/iris3.jpg"
         ]
     }
 ]
