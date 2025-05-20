@@ -82,7 +82,7 @@ import projects from '../projects.json'
     <!-- Introduction Modal -->
 
     <dialog id="intro_modal" class="modal">
-      <div class="modal-box text-black">
+      <div class="modal-box text-black bg-white">
         <h2 class="font-extrabold text-center text-4xl">Introducción</h2>
 
         <div class="prose-base py-4">
@@ -106,7 +106,7 @@ import projects from '../projects.json'
     <!-- Conclusion Modal -->
     
     <dialog id="conclusion_modal" class="modal">
-      <div class="modal-box w-dvw text-black">
+      <div class="modal-box w-dvw text-black bg-white">
         <h2 class="font-extrabold text-center text-4xl">Conclusión</h2>
         <div class="prose-base py-4 text-black">
           <p>En definitiva, y para concluir mi carpeta CAS, considero que este programa ha sido todo lo que soñaba encontrar desde un principio.
