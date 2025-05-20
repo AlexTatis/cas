@@ -6,8 +6,8 @@
             "Servicio"
         ],
         "images": [
-            "/sensogenoma1.jpg",
-            "/sensogenoma2.jpg"
+            "/cas/sensogenoma1.jpg",
+            "/cas/sensogenoma2.jpg"
         ]
     },
     {
@@ -17,7 +17,7 @@
             "Creatividad"
         ],
         "images": [
-            "/mep1.jpg"
+            "/cas/mep1.jpg"
         ]
     },
     {
@@ -28,9 +28,9 @@
             "Servicio"
         ],
         "images": [
-            "/mercadillo1.png",
-            "/mercadillo2.jpg",
-            "/mercadillo4.jpg"
+            "/cas/mercadillo1.png",
+            "/cas/mercadillo2.jpg",
+            "/cas/mercadillo4.jpg"
         ]
     },
     {
@@ -40,9 +40,9 @@
             "Creatividad"
         ],
         "images": [
-            "/decoracion1.jpg",
-            "/decoracion2.jpg",
-            "/decoracion3.jpg"
+            "/cas/decoracion1.jpg",
+            "/cas/decoracion2.jpg",
+            "/cas/decoracion3.jpg"
         ]
     },
     {
@@ -53,8 +53,8 @@
             "Servicio"
         ],
         "images": [
-            "/experimentos1.jpg",
-            "/experimentos2.jpg"
+            "/cas/experimentos1.jpg",
+            "/cas/experimentos2.jpg"
         ]
     },
     {
@@ -65,7 +65,7 @@
             "Servicio"
         ],
         "images": [
-            "/alameda1.jpg"
+            "/cas/alameda1.jpg"
         ]
     },
     {
@@ -76,10 +76,10 @@
             "Actividad"
         ],
         "images": [
-            "/olimpiada1.jpg",
-            "/olimpiada2.jpg",
-            "/olimpiada3.jpg",
-            "/olimpiada4.jpg"
+            "/cas/olimpiada1.jpg",
+            "/cas/olimpiada2.jpg",
+            "/cas/olimpiada3.jpg",
+            "/cas/olimpiada4.jpg"
         ]
     },
     {
@@ -90,8 +90,8 @@
             "Actividad"
         ],
         "images": [
-            "/camino1.jpg",
-            "/camino2.jpg"
+            "/cas/camino1.jpg",
+            "/cas/camino2.jpg"
         ]
     },
     {
@@ -101,8 +101,8 @@
             "Creatividad"
         ],
         "images": [
-            "/cocina1.jpg",
-            "/cocina2.jpg"
+            "/cas/cocina1.jpg",
+            "/cas/cocina2.jpg"
         ]
     },
     {
@@ -112,8 +112,8 @@
             "Creatividad"
         ],
         "images": [
-            "/carrera1.jpg",
-            "/carrera2.jpg"
+            "/cas/carrera1.jpg",
+            "/cas/carrera2.jpg"
         ]
     }
 ]
