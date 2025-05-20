@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Audicrea",
+        "content": "audicrea",
+        "areas": [
+            "Servicio",
+            "Creatividad"
+        ],
+        "images": [
+            "/audicrea1.jpg",
+            "/audicrea2.jpg",
+            "/audicrea3.jpg"
+        ]
+    },
+    {
+        "title": "Cumpleaños a la BI",
+        "content": "cumpleaños",
+        "areas": [
+            "Creatividad",
+            "Actividad"
+        ],
+        "images": [
+            "/cumpleaños1.jpg",
+            "/cumpleaños2.jpg",
+            "/cumpleaños3.jpg",
+            "/cumpleaños4.jpg",
+            "/cumpleaños5.jpg"
+        ]
+    },
+    {
+        "title": "IRIS",
+        "content": "iris",
+        "areas": [
+            "Creatividad",
+            "Servicio"
+        ],
+        "images": [
+            "/iris1.png",
+            "/iris3.jpg"
+        ]
+    }
+]

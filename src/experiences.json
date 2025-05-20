@@ -3,56 +3,117 @@
         "title": "Sensogenoma",
         "content": "sensogenoma",
         "areas": [
-            "Creatividad",
-            "Actividad",
             "Servicio"
         ],
         "images": [
-            "/test.jpg",
-            "/test.jpg",
-            "/test.jpg"
+            "/sensogenoma1.jpg",
+            "/sensogenoma2.jpg"
         ]
     },
     {
-        "title": "Sensogenoma",
-        "content": "sensogenoma",
+        "title": "Fase escolar del MEP",
+        "content": "mep",
         "areas": [
-            "Creatividad",
-            "Actividad",
-            "Servicio"
+            "Creatividad"
         ],
         "images": [
-            "/test.jpg",
-            "/test.jpg",
-            "/test.jpg"
+            "/mep1.jpg"
         ]
     },
     {
-        "title": "Sensogenoma",
-        "content": "sensogenoma",
+        "title": "Mercadillo solidario",
+        "content": "mercadillo",
         "areas": [
             "Creatividad",
-            "Actividad",
             "Servicio"
         ],
         "images": [
-            "/test.jpg",
-            "/test.jpg",
-            "/test.jpg"
+            "/mercadillo1.png",
+            "/mercadillo2.jpg",
+            "/mercadillo4.jpg"
         ]
     },
     {
-        "title": "Sensogenoma",
-        "content": "sensogenoma",
+        "title": "Decoración de Navidad",
+        "content": "decoracion",
+        "areas": [
+            "Creatividad"
+        ],
+        "images": [
+            "/decoracion1.jpg",
+            "/decoracion2.jpg",
+            "/decoracion3.jpg"
+        ]
+    },
+    {
+        "title": "Experimentos Vite",
+        "content": "experimentos",
         "areas": [
             "Creatividad",
-            "Actividad",
             "Servicio"
         ],
         "images": [
-            "/test.jpg",
-            "/test.jpg",
-            "/test.jpg"
+            "/experimentos1.jpg",
+            "/experimentos2.jpg"
+        ]
+    },
+    {
+        "title": "La antropología de la Alameda",
+        "content": "antropologia",
+        "areas": [
+            "Creatividad",
+            "Servicio"
+        ],
+        "images": [
+            "/alameda1.jpg"
+        ]
+    },
+    {
+        "title": "Olimpiadas",
+        "content": "olimpiada",
+        "areas": [
+            "Creatividad",
+            "Actividad"
+        ],
+        "images": [
+            "/olimpiada1.jpg",
+            "/olimpiada2.jpg",
+            "/olimpiada3.jpg",
+            "/olimpiada4.jpg"
+        ]
+    },
+    {
+        "title": "Visita a Caldas",
+        "content": "camino",
+        "areas": [
+            "Servicio",
+            "Actividad"
+        ],
+        "images": [
+            "/camino1.jpg",
+            "/camino2.jpg"
+        ]
+    },
+    {
+        "title": "Clases de cocina",
+        "content": "cocina",
+        "areas": [
+            "Creatividad"
+        ],
+        "images": [
+            "/cocina1.jpg",
+            "/cocina2.jpg"
+        ]
+    },
+    {
+        "title": "Carrera pedestre",
+        "content": "carrera",
+        "areas": [
+            "Creatividad"
+        ],
+        "images": [
+            "/carrera1.jpg",
+            "/carrera2.jpg"
         ]
     }
 ]
