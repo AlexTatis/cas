@@ -1,0 +1,5 @@
+const a=`Yo y algunos de mis compañeros decidimos participar en una actividad donde pudimos aportar nuestras ideas para mejorar la Alameda a un antropólogo que trabaja en el ayuntamiento de la ciudad. Al ser una de mis zonas favoritas de Santiago, me resultó muy divertido idear con los demás diferentes maneras en las que se podría aprovechar ese espacio tan próximo al instituto.
+
+El proceso implicó dividirse en grupos y realizar una cartulina con distintos puntos a considerar para un proyecto de renovación para la Alameda, el cual nosotros debíamos diseñar. Todo debía proceder de una pregunta principal, “¿qué personas utilizan la Alameda?”. Al tratarse de un espacio público, al fin y al cabo, lo más relevante es que esta sea funcional para la gente que la utiliza. Al finalizar, presentamos nuestras ideas al antropólogo y discutimos entre todos su viabilidad. Gracias a ello he aprendido la gran cantidad de casos especiales que hay que tener en cuenta cuando se toman decisiones para un espacio como este: ancianos, gente de movilidad reducida, usuarios de bicicletas, patinetes… 
+
+`;export{a as default};

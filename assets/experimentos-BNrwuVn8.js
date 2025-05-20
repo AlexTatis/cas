@@ -1,0 +1,10 @@
+const e=`Siguiendo la propuesta de un alumno de segundo año, participé con mis compañeros en la realización de experimentos científicos sencillos destinados a un colegio local. El propósito era acercar la ciencia a los niños de manera más interactiva, y la realizamos los dos años de BI.
+
+Tras elegir un grupo de compañeros con el que preparar el experimento, decidimos basarlo en electrostática. La propia selección de la temática fue un reto en sí mismo, debido a que queríamos hacer un experimento original, pero que a su vez fuera fácil de explicar a los más pequeños. 
+
+Durante la semana de preparación recopilamos distintos materiales (cable de cobre para el electroimán, una bola de plasma…) y diseñamos los experimentos, además de pensar en maneras de simplificar los conceptos mediante analogías cotidianas. Personalmente, lo más interesante del proceso de preparación fue intentar resolver las posibles complicaciones de los experimentos de manera creativa. Por ejemplo, un problema que encontramos con el electroimán es que este se calentaba mucho y quemaba al tacto. Para que los niños pudieran usarlo de manera segura, decidimos hacerle una carcasa en forma de pistola, y que solo pasase la corriente cuando se apretase el gatillo. Aunque esto se hizo por meros motivos de seguridad, volvió al electroimán mucho más interactivo y didáctico.  
+
+Ya en el día de la exposición, los experimentos de todos los grupos acabaron siendo un éxito entre los niños. Fue realmente satisfactorio ver cómo se interesaban por lo que explicábamos, haciendo preguntas y jugando con el material. Me recordó a esa curiosidad inicial con la que empecé a interesarme por la ciencia.
+
+En conclusión, con esta experiencia he aprendido el valor que tiene compartir el conocimiento, y a su vez lo complicado que puede resultar esto. Desarrollar recursos creativos para explicar ideas complejas, así como idear las explicaciones, ha sido todo un reto, y a su vez me ha ayudado a entender ciertos conceptos de manera más profunda, pues como dijo Einstein: "Si no puedes explicar algo de manera sencilla, es que no lo has entendido bien".
+`;export{e as default};
